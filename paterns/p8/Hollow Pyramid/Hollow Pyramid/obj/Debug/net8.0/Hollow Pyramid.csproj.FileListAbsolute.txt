@@ -1,0 +1,14 @@
+D:\Courses\ITI BIM\c#\for github\paterns\p8\Hollow Pyramid\Hollow Pyramid\bin\Debug\net8.0\Hollow Pyramid.exe
+D:\Courses\ITI BIM\c#\for github\paterns\p8\Hollow Pyramid\Hollow Pyramid\bin\Debug\net8.0\Hollow Pyramid.deps.json
+D:\Courses\ITI BIM\c#\for github\paterns\p8\Hollow Pyramid\Hollow Pyramid\bin\Debug\net8.0\Hollow Pyramid.runtimeconfig.json
+D:\Courses\ITI BIM\c#\for github\paterns\p8\Hollow Pyramid\Hollow Pyramid\bin\Debug\net8.0\Hollow Pyramid.dll
+D:\Courses\ITI BIM\c#\for github\paterns\p8\Hollow Pyramid\Hollow Pyramid\bin\Debug\net8.0\Hollow Pyramid.pdb
+D:\Courses\ITI BIM\c#\for github\paterns\p8\Hollow Pyramid\Hollow Pyramid\obj\Debug\net8.0\Hollow Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\ITI BIM\c#\for github\paterns\p8\Hollow Pyramid\Hollow Pyramid\obj\Debug\net8.0\Hollow Pyramid.AssemblyInfoInputs.cache
+D:\Courses\ITI BIM\c#\for github\paterns\p8\Hollow Pyramid\Hollow Pyramid\obj\Debug\net8.0\Hollow Pyramid.AssemblyInfo.cs
+D:\Courses\ITI BIM\c#\for github\paterns\p8\Hollow Pyramid\Hollow Pyramid\obj\Debug\net8.0\Hollow Pyramid.csproj.CoreCompileInputs.cache
+D:\Courses\ITI BIM\c#\for github\paterns\p8\Hollow Pyramid\Hollow Pyramid\obj\Debug\net8.0\Hollow Pyramid.dll
+D:\Courses\ITI BIM\c#\for github\paterns\p8\Hollow Pyramid\Hollow Pyramid\obj\Debug\net8.0\refint\Hollow Pyramid.dll
+D:\Courses\ITI BIM\c#\for github\paterns\p8\Hollow Pyramid\Hollow Pyramid\obj\Debug\net8.0\Hollow Pyramid.pdb
+D:\Courses\ITI BIM\c#\for github\paterns\p8\Hollow Pyramid\Hollow Pyramid\obj\Debug\net8.0\Hollow Pyramid.genruntimeconfig.cache
+D:\Courses\ITI BIM\c#\for github\paterns\p8\Hollow Pyramid\Hollow Pyramid\obj\Debug\net8.0\ref\Hollow Pyramid.dll

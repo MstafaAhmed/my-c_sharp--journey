@@ -1,0 +1,14 @@
+D:\Courses\ITI BIM\c#\for github\paterns\p3\Parallelogram star pattarn\Parallelogram star pattarn\bin\Debug\net8.0\Parallelogram star pattarn.exe
+D:\Courses\ITI BIM\c#\for github\paterns\p3\Parallelogram star pattarn\Parallelogram star pattarn\bin\Debug\net8.0\Parallelogram star pattarn.deps.json
+D:\Courses\ITI BIM\c#\for github\paterns\p3\Parallelogram star pattarn\Parallelogram star pattarn\bin\Debug\net8.0\Parallelogram star pattarn.runtimeconfig.json
+D:\Courses\ITI BIM\c#\for github\paterns\p3\Parallelogram star pattarn\Parallelogram star pattarn\bin\Debug\net8.0\Parallelogram star pattarn.dll
+D:\Courses\ITI BIM\c#\for github\paterns\p3\Parallelogram star pattarn\Parallelogram star pattarn\bin\Debug\net8.0\Parallelogram star pattarn.pdb
+D:\Courses\ITI BIM\c#\for github\paterns\p3\Parallelogram star pattarn\Parallelogram star pattarn\obj\Debug\net8.0\Parallelogram star pattarn.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\ITI BIM\c#\for github\paterns\p3\Parallelogram star pattarn\Parallelogram star pattarn\obj\Debug\net8.0\Parallelogram star pattarn.AssemblyInfoInputs.cache
+D:\Courses\ITI BIM\c#\for github\paterns\p3\Parallelogram star pattarn\Parallelogram star pattarn\obj\Debug\net8.0\Parallelogram star pattarn.AssemblyInfo.cs
+D:\Courses\ITI BIM\c#\for github\paterns\p3\Parallelogram star pattarn\Parallelogram star pattarn\obj\Debug\net8.0\Parallelogram star pattarn.csproj.CoreCompileInputs.cache
+D:\Courses\ITI BIM\c#\for github\paterns\p3\Parallelogram star pattarn\Parallelogram star pattarn\obj\Debug\net8.0\Parallelogram star pattarn.dll
+D:\Courses\ITI BIM\c#\for github\paterns\p3\Parallelogram star pattarn\Parallelogram star pattarn\obj\Debug\net8.0\refint\Parallelogram star pattarn.dll
+D:\Courses\ITI BIM\c#\for github\paterns\p3\Parallelogram star pattarn\Parallelogram star pattarn\obj\Debug\net8.0\Parallelogram star pattarn.pdb
+D:\Courses\ITI BIM\c#\for github\paterns\p3\Parallelogram star pattarn\Parallelogram star pattarn\obj\Debug\net8.0\Parallelogram star pattarn.genruntimeconfig.cache
+D:\Courses\ITI BIM\c#\for github\paterns\p3\Parallelogram star pattarn\Parallelogram star pattarn\obj\Debug\net8.0\ref\Parallelogram star pattarn.dll

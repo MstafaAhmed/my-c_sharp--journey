@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Parallelogram star pattarn/1.0.0": {
+        "runtime": {
+          "Parallelogram star pattarn.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parallelogram star pattarn/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

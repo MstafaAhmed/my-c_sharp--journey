@@ -1,0 +1,14 @@
+D:\Courses\ITI BIM\c#\for github\paterns\p18\numbers pattarn with 1,0\numbers pattarn with 1,0\bin\Debug\net8.0\numbers pattarn with 1,0.exe
+D:\Courses\ITI BIM\c#\for github\paterns\p18\numbers pattarn with 1,0\numbers pattarn with 1,0\bin\Debug\net8.0\numbers pattarn with 1,0.deps.json
+D:\Courses\ITI BIM\c#\for github\paterns\p18\numbers pattarn with 1,0\numbers pattarn with 1,0\bin\Debug\net8.0\numbers pattarn with 1,0.runtimeconfig.json
+D:\Courses\ITI BIM\c#\for github\paterns\p18\numbers pattarn with 1,0\numbers pattarn with 1,0\bin\Debug\net8.0\numbers pattarn with 1,0.dll
+D:\Courses\ITI BIM\c#\for github\paterns\p18\numbers pattarn with 1,0\numbers pattarn with 1,0\bin\Debug\net8.0\numbers pattarn with 1,0.pdb
+D:\Courses\ITI BIM\c#\for github\paterns\p18\numbers pattarn with 1,0\numbers pattarn with 1,0\obj\Debug\net8.0\numbers pattarn with 1,0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\ITI BIM\c#\for github\paterns\p18\numbers pattarn with 1,0\numbers pattarn with 1,0\obj\Debug\net8.0\numbers pattarn with 1,0.AssemblyInfoInputs.cache
+D:\Courses\ITI BIM\c#\for github\paterns\p18\numbers pattarn with 1,0\numbers pattarn with 1,0\obj\Debug\net8.0\numbers pattarn with 1,0.AssemblyInfo.cs
+D:\Courses\ITI BIM\c#\for github\paterns\p18\numbers pattarn with 1,0\numbers pattarn with 1,0\obj\Debug\net8.0\numbers pattarn with 1,0.csproj.CoreCompileInputs.cache
+D:\Courses\ITI BIM\c#\for github\paterns\p18\numbers pattarn with 1,0\numbers pattarn with 1,0\obj\Debug\net8.0\numbers pattarn with 1,0.dll
+D:\Courses\ITI BIM\c#\for github\paterns\p18\numbers pattarn with 1,0\numbers pattarn with 1,0\obj\Debug\net8.0\refint\numbers pattarn with 1,0.dll
+D:\Courses\ITI BIM\c#\for github\paterns\p18\numbers pattarn with 1,0\numbers pattarn with 1,0\obj\Debug\net8.0\numbers pattarn with 1,0.pdb
+D:\Courses\ITI BIM\c#\for github\paterns\p18\numbers pattarn with 1,0\numbers pattarn with 1,0\obj\Debug\net8.0\numbers pattarn with 1,0.genruntimeconfig.cache
+D:\Courses\ITI BIM\c#\for github\paterns\p18\numbers pattarn with 1,0\numbers pattarn with 1,0\obj\Debug\net8.0\ref\numbers pattarn with 1,0.dll

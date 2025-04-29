@@ -1,0 +1,14 @@
+D:\Courses\ITI BIM\c#\for github\paterns\p19\number pattarn at alternate column\number pattarn at alternate column\bin\Debug\net8.0\number pattarn at alternate column.exe
+D:\Courses\ITI BIM\c#\for github\paterns\p19\number pattarn at alternate column\number pattarn at alternate column\bin\Debug\net8.0\number pattarn at alternate column.deps.json
+D:\Courses\ITI BIM\c#\for github\paterns\p19\number pattarn at alternate column\number pattarn at alternate column\bin\Debug\net8.0\number pattarn at alternate column.runtimeconfig.json
+D:\Courses\ITI BIM\c#\for github\paterns\p19\number pattarn at alternate column\number pattarn at alternate column\bin\Debug\net8.0\number pattarn at alternate column.dll
+D:\Courses\ITI BIM\c#\for github\paterns\p19\number pattarn at alternate column\number pattarn at alternate column\bin\Debug\net8.0\number pattarn at alternate column.pdb
+D:\Courses\ITI BIM\c#\for github\paterns\p19\number pattarn at alternate column\number pattarn at alternate column\obj\Debug\net8.0\number pattarn at alternate column.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\ITI BIM\c#\for github\paterns\p19\number pattarn at alternate column\number pattarn at alternate column\obj\Debug\net8.0\number pattarn at alternate column.AssemblyInfoInputs.cache
+D:\Courses\ITI BIM\c#\for github\paterns\p19\number pattarn at alternate column\number pattarn at alternate column\obj\Debug\net8.0\number pattarn at alternate column.AssemblyInfo.cs
+D:\Courses\ITI BIM\c#\for github\paterns\p19\number pattarn at alternate column\number pattarn at alternate column\obj\Debug\net8.0\number pattarn at alternate column.csproj.CoreCompileInputs.cache
+D:\Courses\ITI BIM\c#\for github\paterns\p19\number pattarn at alternate column\number pattarn at alternate column\obj\Debug\net8.0\number pattarn at alternate column.dll
+D:\Courses\ITI BIM\c#\for github\paterns\p19\number pattarn at alternate column\number pattarn at alternate column\obj\Debug\net8.0\refint\number pattarn at alternate column.dll
+D:\Courses\ITI BIM\c#\for github\paterns\p19\number pattarn at alternate column\number pattarn at alternate column\obj\Debug\net8.0\number pattarn at alternate column.pdb
+D:\Courses\ITI BIM\c#\for github\paterns\p19\number pattarn at alternate column\number pattarn at alternate column\obj\Debug\net8.0\number pattarn at alternate column.genruntimeconfig.cache
+D:\Courses\ITI BIM\c#\for github\paterns\p19\number pattarn at alternate column\number pattarn at alternate column\obj\Debug\net8.0\ref\number pattarn at alternate column.dll

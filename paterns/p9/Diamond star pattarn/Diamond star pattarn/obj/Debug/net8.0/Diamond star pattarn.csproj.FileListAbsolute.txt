@@ -1,0 +1,14 @@
+D:\Courses\ITI BIM\c#\for github\paterns\p9\Diamond star pattarn\Diamond star pattarn\bin\Debug\net8.0\Diamond star pattarn.exe
+D:\Courses\ITI BIM\c#\for github\paterns\p9\Diamond star pattarn\Diamond star pattarn\bin\Debug\net8.0\Diamond star pattarn.deps.json
+D:\Courses\ITI BIM\c#\for github\paterns\p9\Diamond star pattarn\Diamond star pattarn\bin\Debug\net8.0\Diamond star pattarn.runtimeconfig.json
+D:\Courses\ITI BIM\c#\for github\paterns\p9\Diamond star pattarn\Diamond star pattarn\bin\Debug\net8.0\Diamond star pattarn.dll
+D:\Courses\ITI BIM\c#\for github\paterns\p9\Diamond star pattarn\Diamond star pattarn\bin\Debug\net8.0\Diamond star pattarn.pdb
+D:\Courses\ITI BIM\c#\for github\paterns\p9\Diamond star pattarn\Diamond star pattarn\obj\Debug\net8.0\Diamond star pattarn.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\ITI BIM\c#\for github\paterns\p9\Diamond star pattarn\Diamond star pattarn\obj\Debug\net8.0\Diamond star pattarn.AssemblyInfoInputs.cache
+D:\Courses\ITI BIM\c#\for github\paterns\p9\Diamond star pattarn\Diamond star pattarn\obj\Debug\net8.0\Diamond star pattarn.AssemblyInfo.cs
+D:\Courses\ITI BIM\c#\for github\paterns\p9\Diamond star pattarn\Diamond star pattarn\obj\Debug\net8.0\Diamond star pattarn.csproj.CoreCompileInputs.cache
+D:\Courses\ITI BIM\c#\for github\paterns\p9\Diamond star pattarn\Diamond star pattarn\obj\Debug\net8.0\Diamond star pattarn.dll
+D:\Courses\ITI BIM\c#\for github\paterns\p9\Diamond star pattarn\Diamond star pattarn\obj\Debug\net8.0\refint\Diamond star pattarn.dll
+D:\Courses\ITI BIM\c#\for github\paterns\p9\Diamond star pattarn\Diamond star pattarn\obj\Debug\net8.0\Diamond star pattarn.pdb
+D:\Courses\ITI BIM\c#\for github\paterns\p9\Diamond star pattarn\Diamond star pattarn\obj\Debug\net8.0\Diamond star pattarn.genruntimeconfig.cache
+D:\Courses\ITI BIM\c#\for github\paterns\p9\Diamond star pattarn\Diamond star pattarn\obj\Debug\net8.0\ref\Diamond star pattarn.dll

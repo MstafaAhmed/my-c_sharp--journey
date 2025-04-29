@@ -1,0 +1,14 @@
+D:\Courses\ITI BIM\c#\for github\paterns\p1\rectangle of star series\rectangle of star series\bin\Debug\net8.0\rectangle of star series.exe
+D:\Courses\ITI BIM\c#\for github\paterns\p1\rectangle of star series\rectangle of star series\bin\Debug\net8.0\rectangle of star series.deps.json
+D:\Courses\ITI BIM\c#\for github\paterns\p1\rectangle of star series\rectangle of star series\bin\Debug\net8.0\rectangle of star series.runtimeconfig.json
+D:\Courses\ITI BIM\c#\for github\paterns\p1\rectangle of star series\rectangle of star series\bin\Debug\net8.0\rectangle of star series.dll
+D:\Courses\ITI BIM\c#\for github\paterns\p1\rectangle of star series\rectangle of star series\bin\Debug\net8.0\rectangle of star series.pdb
+D:\Courses\ITI BIM\c#\for github\paterns\p1\rectangle of star series\rectangle of star series\obj\Debug\net8.0\rectangle of star series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\ITI BIM\c#\for github\paterns\p1\rectangle of star series\rectangle of star series\obj\Debug\net8.0\rectangle of star series.AssemblyInfoInputs.cache
+D:\Courses\ITI BIM\c#\for github\paterns\p1\rectangle of star series\rectangle of star series\obj\Debug\net8.0\rectangle of star series.AssemblyInfo.cs
+D:\Courses\ITI BIM\c#\for github\paterns\p1\rectangle of star series\rectangle of star series\obj\Debug\net8.0\rectangle of star series.csproj.CoreCompileInputs.cache
+D:\Courses\ITI BIM\c#\for github\paterns\p1\rectangle of star series\rectangle of star series\obj\Debug\net8.0\rectangle of star series.dll
+D:\Courses\ITI BIM\c#\for github\paterns\p1\rectangle of star series\rectangle of star series\obj\Debug\net8.0\refint\rectangle of star series.dll
+D:\Courses\ITI BIM\c#\for github\paterns\p1\rectangle of star series\rectangle of star series\obj\Debug\net8.0\rectangle of star series.pdb
+D:\Courses\ITI BIM\c#\for github\paterns\p1\rectangle of star series\rectangle of star series\obj\Debug\net8.0\rectangle of star series.genruntimeconfig.cache
+D:\Courses\ITI BIM\c#\for github\paterns\p1\rectangle of star series\rectangle of star series\obj\Debug\net8.0\ref\rectangle of star series.dll

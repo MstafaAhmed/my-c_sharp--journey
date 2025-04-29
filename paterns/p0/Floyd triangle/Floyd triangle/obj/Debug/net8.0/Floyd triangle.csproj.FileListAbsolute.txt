@@ -1,0 +1,14 @@
+D:\Courses\ITI BIM\c#\for github\paterns\p0\Floyd triangle\Floyd triangle\bin\Debug\net8.0\Floyd triangle.exe
+D:\Courses\ITI BIM\c#\for github\paterns\p0\Floyd triangle\Floyd triangle\bin\Debug\net8.0\Floyd triangle.deps.json
+D:\Courses\ITI BIM\c#\for github\paterns\p0\Floyd triangle\Floyd triangle\bin\Debug\net8.0\Floyd triangle.runtimeconfig.json
+D:\Courses\ITI BIM\c#\for github\paterns\p0\Floyd triangle\Floyd triangle\bin\Debug\net8.0\Floyd triangle.dll
+D:\Courses\ITI BIM\c#\for github\paterns\p0\Floyd triangle\Floyd triangle\bin\Debug\net8.0\Floyd triangle.pdb
+D:\Courses\ITI BIM\c#\for github\paterns\p0\Floyd triangle\Floyd triangle\obj\Debug\net8.0\Floyd triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\ITI BIM\c#\for github\paterns\p0\Floyd triangle\Floyd triangle\obj\Debug\net8.0\Floyd triangle.AssemblyInfoInputs.cache
+D:\Courses\ITI BIM\c#\for github\paterns\p0\Floyd triangle\Floyd triangle\obj\Debug\net8.0\Floyd triangle.AssemblyInfo.cs
+D:\Courses\ITI BIM\c#\for github\paterns\p0\Floyd triangle\Floyd triangle\obj\Debug\net8.0\Floyd triangle.csproj.CoreCompileInputs.cache
+D:\Courses\ITI BIM\c#\for github\paterns\p0\Floyd triangle\Floyd triangle\obj\Debug\net8.0\Floyd triangle.dll
+D:\Courses\ITI BIM\c#\for github\paterns\p0\Floyd triangle\Floyd triangle\obj\Debug\net8.0\refint\Floyd triangle.dll
+D:\Courses\ITI BIM\c#\for github\paterns\p0\Floyd triangle\Floyd triangle\obj\Debug\net8.0\Floyd triangle.pdb
+D:\Courses\ITI BIM\c#\for github\paterns\p0\Floyd triangle\Floyd triangle\obj\Debug\net8.0\Floyd triangle.genruntimeconfig.cache
+D:\Courses\ITI BIM\c#\for github\paterns\p0\Floyd triangle\Floyd triangle\obj\Debug\net8.0\ref\Floyd triangle.dll

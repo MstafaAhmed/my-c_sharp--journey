@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "rectangle of star series/1.0.0": {
+        "runtime": {
+          "rectangle of star series.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "rectangle of star series/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

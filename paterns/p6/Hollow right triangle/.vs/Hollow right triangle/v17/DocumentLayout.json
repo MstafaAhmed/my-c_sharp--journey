@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Courses\\ITI BIM\\c#\\for github\\paterns\\p6\\Hollow right triangle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1B174CA-701C-4E6B-A6FC-A180113D6F6E}|Hollow right triangle\\Hollow right triangle.csproj|d:\\courses\\iti bim\\c#\\for github\\paterns\\p6\\hollow right triangle\\hollow right triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1B174CA-701C-4E6B-A6FC-A180113D6F6E}|Hollow right triangle\\Hollow right triangle.csproj|solutionrelative:hollow right triangle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI BIM\\c#\\for github\\paterns\\p6\\Hollow right triangle\\Hollow right triangle\\Program.cs",
+              "RelativeDocumentMoniker": "Hollow right triangle\\Program.cs",
+              "ToolTip": "D:\\Courses\\ITI BIM\\c#\\for github\\paterns\\p6\\Hollow right triangle\\Hollow right triangle\\Program.cs",
+              "RelativeToolTip": "Hollow right triangle\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T18:22:51.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
