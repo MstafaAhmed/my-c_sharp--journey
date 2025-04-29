@@ -1,0 +1,15 @@
+D:\Courses\ITI BIM\c#\Advanced Topics\Generic classes\Generic class\Generic class\obj\Debug\net8.0\Generic class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\ITI BIM\c#\Advanced Topics\Generic classes\Generic class\Generic class\obj\Debug\net8.0\Generic class.AssemblyInfoInputs.cache
+D:\Courses\ITI BIM\c#\Advanced Topics\Generic classes\Generic class\Generic class\obj\Debug\net8.0\Generic class.AssemblyInfo.cs
+D:\Courses\ITI BIM\c#\Advanced Topics\Generic classes\Generic class\Generic class\obj\Debug\net8.0\Generic class.csproj.CoreCompileInputs.cache
+D:\Courses\ITI BIM\c#\Advanced Topics\Generic classes\Generic class\Generic class\obj\Debug\net8.0\Generic class.sourcelink.json
+D:\Courses\ITI BIM\c#\Advanced Topics\Generic classes\Generic class\Generic class\bin\Debug\net8.0\Generic class.exe
+D:\Courses\ITI BIM\c#\Advanced Topics\Generic classes\Generic class\Generic class\bin\Debug\net8.0\Generic class.deps.json
+D:\Courses\ITI BIM\c#\Advanced Topics\Generic classes\Generic class\Generic class\bin\Debug\net8.0\Generic class.runtimeconfig.json
+D:\Courses\ITI BIM\c#\Advanced Topics\Generic classes\Generic class\Generic class\bin\Debug\net8.0\Generic class.dll
+D:\Courses\ITI BIM\c#\Advanced Topics\Generic classes\Generic class\Generic class\bin\Debug\net8.0\Generic class.pdb
+D:\Courses\ITI BIM\c#\Advanced Topics\Generic classes\Generic class\Generic class\obj\Debug\net8.0\Generic class.dll
+D:\Courses\ITI BIM\c#\Advanced Topics\Generic classes\Generic class\Generic class\obj\Debug\net8.0\refint\Generic class.dll
+D:\Courses\ITI BIM\c#\Advanced Topics\Generic classes\Generic class\Generic class\obj\Debug\net8.0\Generic class.pdb
+D:\Courses\ITI BIM\c#\Advanced Topics\Generic classes\Generic class\Generic class\obj\Debug\net8.0\Generic class.genruntimeconfig.cache
+D:\Courses\ITI BIM\c#\Advanced Topics\Generic classes\Generic class\Generic class\obj\Debug\net8.0\ref\Generic class.dll
