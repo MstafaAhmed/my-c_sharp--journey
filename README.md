@@ -5,6 +5,7 @@ I'm Mostafa Ahmed, and this repository documents my journey of learning the C# p
 ## Plan:
 
 -  Learn the basics (variables, conditions, loops)
+-  Learn and implement design patterns in C#
 -  Understand Object-Oriented Programming (OOP)
 -  Explore advanced topics (LINQ, Delegates, Events)
 -  Build a small practical project
