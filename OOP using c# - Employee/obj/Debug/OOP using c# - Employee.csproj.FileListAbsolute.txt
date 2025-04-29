@@ -1,0 +1,7 @@
+D:\Courses\ITI BIM\c#\OOP using C#\OOP using c# - Employee\bin\Debug\OOP using c# - Employee.exe.config
+D:\Courses\ITI BIM\c#\OOP using C#\OOP using c# - Employee\bin\Debug\OOP using c# - Employee.exe
+D:\Courses\ITI BIM\c#\OOP using C#\OOP using c# - Employee\bin\Debug\OOP using c# - Employee.pdb
+D:\Courses\ITI BIM\c#\OOP using C#\OOP using c# - Employee\obj\Debug\OOP using c# - Employee.csproj.AssemblyReference.cache
+D:\Courses\ITI BIM\c#\OOP using C#\OOP using c# - Employee\obj\Debug\OOP using c# - Employee.csproj.CoreCompileInputs.cache
+D:\Courses\ITI BIM\c#\OOP using C#\OOP using c# - Employee\obj\Debug\OOP using c# - Employee.exe
+D:\Courses\ITI BIM\c#\OOP using C#\OOP using c# - Employee\obj\Debug\OOP using c# - Employee.pdb
