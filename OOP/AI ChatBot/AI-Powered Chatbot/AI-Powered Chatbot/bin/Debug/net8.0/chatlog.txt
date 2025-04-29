@@ -1,0 +1,10 @@
+User: egypt | Bot: I'm not sure how to respond to that. Try asking about the weather, a fun fact, or a joke!
+User: capital | Bot: I'm not sure how to respond to that. Try asking about the weather, a fun fact, or a joke!
+User: cabital | Bot: I'm not sure how to respond to that. Try asking about the weather, a fun fact, or a joke!
+User: france | Bot: I'm not sure how to respond to that. Try asking about the weather, a fun fact, or a joke!
+User: France | Bot: I'm not sure how to respond to that. Try asking about the weather, a fun fact, or a joke!
+User: programming | Bot: I'm not sure how to respond to that. Try asking about the weather, a fun fact, or a joke!
+User: programming | Bot: I'm not sure how to respond to that. Try asking about the weather, a fun fact, or a joke!
+User: programming | Bot: Start with online tutorials, books, or practice on LeetCode and Codecademy!
+User: are | Bot: I'm an AI, so I don't have feelings, but thanks for asking!
+User: histrory | Bot: I'm not sure how to respond to that. Try asking about the weather, a fun fact, or a joke!
